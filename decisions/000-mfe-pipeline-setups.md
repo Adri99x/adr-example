@@ -1,10 +1,11 @@
 ---
 parent: Decisions
-nav_order: 19
+nav_order: 0
 ---
+
 # Microfrontend (MFE) and pipeline setups
 
-![](./0019-mfe-pipeline-setups.png)
+![](https://github.com/Adri99x/adr-example/blob/main/decisions/000-mfe-pipeline-setups.png)
 
 ### Development Kits
 
