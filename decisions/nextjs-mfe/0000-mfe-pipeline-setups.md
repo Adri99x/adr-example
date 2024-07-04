@@ -5,7 +5,7 @@ nav_order: 0
 
 # Microfrontend (MFE) and pipeline setups
 
-![mfe-pipeline-setups](https://raw.githubusercontent.com/Adri99x/adr-example/main/decisions/0000-mfe-pipeline-setups.png
+![mfe-pipeline-setups](https://raw.githubusercontent.com/Adri99x/adr-example/main/decisions/nextjs-mfe/0000-mfe-pipeline-setups.png
 )
 
 ### Development Kits
