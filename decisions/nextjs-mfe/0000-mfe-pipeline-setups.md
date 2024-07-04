@@ -1,6 +1,10 @@
 ---
 parent: Decisions
 nav_order: 0
+status: accepted
+date: 2024-07-01
+consulted: 99x Tech Leads
+informed: Adri, Rishard, Sachith
 ---
 
 # Microfrontend (MFE) and pipeline setups
